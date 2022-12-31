@@ -1,0 +1,12 @@
+footer{
+    background-color:black;
+    color: white;
+}
+.skills{
+    background-color:yellow ;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+body{
+    background-color: aliceblue;   
+}
